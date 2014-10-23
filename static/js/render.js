@@ -25,7 +25,7 @@ google.devrel.samples.ttt = google.devrel.samples.ttt || {};
  * @type {string}
  */
 google.devrel.samples.ttt.CLIENT_ID =
-    'YOUR-CLIENT-ID';
+    '280032357131-5vfk5mo50se6vgrl876md0tfojo4cqcg.apps.googleusercontent.com';
 
 /**
  * Scopes used by the application.
